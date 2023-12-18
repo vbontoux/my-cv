@@ -1,17 +1,16 @@
 ---
-layout: cv
-title: Vincent Bontoux's CV
+title: Vincent Bontoux
+tags: ["en"]
 ---
-# Vincent Bontoux
-## Sr. Solutions Architect and SaaS Specialist at Amazon Web Services (AWS)
-[LinkedIn](https://www.linkedin.com/in/vincent-bontoux-a48906/overlay/contact-info/) - vincent.bontoux@outlook.fr
+# Sr. Solutions Architect and SaaS Specialist at Amazon Web Services (AWS)
+[LinkedIn](https://www.linkedin.com/in/vincent-bontoux-a48906/overlay/contact-info/) - [vincent.bontoux@outlook.fr](mailto:vincent.bontoux@outlook.fr)
 
 ## Experience
 
 `Jan 2023 -  present` __Senior Solutions Architect at Amazon Web Services (AWS)__ - *Independent Software Vendors (ISV) Segment*
-- Trusted Advisor of large ISVs on the Financial market helping their Technological and organizational transformation.
-- SaaS specialist and speaker, guiding customers in their SaaS Journey in the cloud
-- Container and Network specialist contributing to one to many immersion days (workshops)
+  - Trusted Advisor of large ISVs on the Financial market helping their Technological and organizational transformation.
+  - SaaS specialist and speaker, guiding customers in their SaaS Journey in the cloud
+  - Container and Network specialist contributing to one to many immersion days (workshops)
   
 `Jan 2021 - Dec 2022` __Solutions Architect at Amazon Web Services (AWS)__ - *Small and Medium Businesses (SMB) Segment*
 - Technical guidance to build or migrate solutions in the cloud to achieve business objectives
@@ -31,12 +30,12 @@ title: Vincent Bontoux's CV
 - Technologies: 	wxWindow, SQLite, Silverlight, WCF, ASP.NET
 - Programming: C++, C#
 
-`1997 - 2003` Symah Vision : image processing.
-- `2000 – 2003` Lead Software engineer - Design, coding deployment and production support of an image processing system for broadcast TV sport shows. Travels across Europe and US to test new features an support operators.
+`1997 - 2003` __Symah Vision - image processing__
+- `2000 – 2003` Lead Software engineer - Design, coding deployment and production support of an image processing system for broadcast TV sport shows. Travels across Europe and US to test new features an support operators.  
 - `1997- 1999` Software engineer - development of a post-production software for video tracking.
 
-`Before`
-- `1996 – 1997` Software engineer at G2I, contractor for Sagem : coding of C embedded modules. 
+`Before`  
+- `1996 – 1997` Software engineer at G2I, contractor for Sagem : coding of C embedded modules.
 - `1994` internship at Dassault Automatismes et Systèmes: signal processing 
 
 ## Licenses & certifications
@@ -46,7 +45,7 @@ title: Vincent Bontoux's CV
 - AWS Certified Senior Speaker
 
 ## Languages
-`French ` Native  
+`French` Native  
 `English` Full professional proficiency
 
 ## Education
