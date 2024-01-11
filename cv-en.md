@@ -3,14 +3,14 @@ title: Vincent Bontoux
 tags: ["en"]
 ---
 # Sr. Solutions Architect and SaaS Specialist at Amazon Web Services (AWS)
-[LinkedIn](https://www.linkedin.com/in/vincent-bontoux-a48906/overlay/contact-info/) - [vincent.bontoux@outlook.fr](mailto:vincent.bontoux@outlook.fr)
+[vincent.bontoux@outlook.fr](mailto:vincent.bontoux@outlook.fr) - [LinkedIn](https://www.linkedin.com/in/vincent-bontoux-a48906/overlay/contact-info/) - [github](https://github.com/vbontoux/my-cv/)
 
 ## Experience
 
 `Jan 2023 -  present` __Senior Solutions Architect at Amazon Web Services (AWS)__ - *Independent Software Vendors (ISV) Segment*
   - Trusted Advisor of large ISVs on the Financial market helping their Technological and organizational transformation.
   - SaaS specialist and speaker, guiding customers in their SaaS Journey in the cloud
-  - Container and Network specialist contributing to one to many immersion days (workshops)
+  - Container and Network specialist contributing to one to many workshops
   
 `Jan 2021 - Dec 2022` __Solutions Architect at Amazon Web Services (AWS)__ - *Small and Medium Businesses (SMB) Segment*
 - Technical guidance to build or migrate solutions in the cloud to achieve business objectives
@@ -18,7 +18,7 @@ tags: ["en"]
 
 `June 2012 - Jan 2021` __Senior Technical Specialist at Refinitiv (London Sock Exchange)__  - *Edge Infrastructures*
 - Technical Specialist & Manager - Software architecture - Build & Run
-- impacting 120 000+ users in financial markets
+- Impacting 120 000+ users in financial markets
 - Optimized Reverse Proxy cache to hundreds of microservices (120M hits a day)
   - providing authentication, authorization, performance, security and reliability to 100s of backend web services : 
   - Techonolgies: Varnish, NginX, Mongodb, Nodejs, Angularjs, Docker
